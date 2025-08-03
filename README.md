@@ -8,5 +8,7 @@ The goal is to have some completed project as a downloadable app.
 
 In the meantime, checkout the [blag](https://8lliotzhang.github.io/prometheus/) I'm writing! (it's a failsafe to track progess in case I run out of time)
 
+Special thanks to Cary Huang, whose fault it is I know what an LSTM is, and to Andrej Karpathy, whose fault it is that LSTMs are.
+
 #### thats all, until next time nerds 
 -8z
